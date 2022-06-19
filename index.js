@@ -48,7 +48,5 @@ function changeColor() {
 
 }
 
-console.log("first commit in index.js");
 
-
-
+//a committed  comment 
